@@ -1,7 +1,7 @@
 ### Hey, I'm spl1ce0 👋
 
 🎓 Studying **Computer Engineering** at **NOVA University Lisbon** 🇵🇹  
-🚀 Fascinated by **rocketry & space exploration**  
+🚀 Fascinated by **rockets & space exploration**  
 📷 Passionate about **photography**  
 
 <sub>*(i use arch btw)*</sub>
@@ -15,10 +15,10 @@
 <table>
   <tr>
     <td width="50%" valign="middle">
-      <p>An autonomous rover built from scratch!</p>
+      <p>A line follower robot built from scratch!</p>
       <ul>
         <li><b>Sensors:</b> 8-channel reflective IR array (QTR-8RC)</li>
-        <li><b>Control:</b> Hand-tuned PD feedback loop</li>
+        <li><b>Control:</b> Hand-tuned PID feedback loop</li>
         <li><b>Drive:</b> Dual DC motors with L298N PWM</li>
       </ul>
       <p>👉 <a href="https://github.com/spl1ce0/Line-Follower-Robot"><b>Inspect the code (C++) ↗</b></a></p>
@@ -36,11 +36,11 @@
 <table>
   <tr>
     <td width="50%" valign="middle">
-      <p>A self-hostable Discord companion bot with personality.</p>
+      <p>A self-hostable Discord bot with innovative features.</p>
       <ul>
-        <li><b>Conversational AI:</b> Fast, contextual chat that actually talks back</li>
+        <li><b>Conversational AI:</b> Fast, contextual chat with real-time knowledge</li>
         <li><b>Multimodal:</b> Understands images, screenshots, and code files</li>
-        <li><b>Interactive:</b> Mini-games (Connect 4 vs AI) and media utilities</li>
+        <li><b>Minigames:</b> Blackjack and Connect 4 with an AI opponent</li>
       </ul>
       <p>👉 <a href="https://github.com/spl1ce0/spl1ceAI"><b>Inspect the code (Python) ↗</b></a></p>
     </td>
