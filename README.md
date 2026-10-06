@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Some Projects
+### Some Projects
 
 #### Line Follower Robot
 
